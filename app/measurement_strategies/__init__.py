@@ -1,0 +1,1 @@
+"""Per-geometry measurement strategies."""
